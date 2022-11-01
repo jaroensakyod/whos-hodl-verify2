@@ -1,5 +1,5 @@
 
-import Homepage from './home/homepage';
+import Homepage from './homepage';
 
 export default function Home() {
 

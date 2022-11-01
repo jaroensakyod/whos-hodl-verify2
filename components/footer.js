@@ -1,4 +1,4 @@
-import styles from '../../styles/Home.module.css'
+import styles from '../styles/Home.module.css'
 
 export default function Footer() {
           return(
@@ -9,7 +9,7 @@ export default function Footer() {
                       rel="noopener noreferrer"
                     >
                       Powered by{' '}
-                      <span className={styles.logo}>
+                      <span>
                                 💻 SavePlanet
                       </span>
                     </a>

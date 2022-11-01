@@ -1,4 +1,4 @@
-import styles from '../../styles/Home.module.css'
+import styles from '../styles/Home.module.css'
 
 export default function Body() {
           return (
@@ -9,7 +9,7 @@ export default function Body() {
                           
                                   <p className={styles.description}>
                                     Create By{' '}
-                                    <code className={styles.code}>💻 SavePlanet</code>
+                                    <code>💻 SavePlanet</code>
                                   </p>
                     </>       
 
